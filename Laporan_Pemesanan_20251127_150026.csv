@@ -1,0 +1,8 @@
+LAPORAN PEMESANAN TIKET PESAWAT
+Periode: 2025-11-01 s/d 2025-11-27
+Tanggal Cetak: 27-11-2025 15:00:26
+
+No,Kode Booking,Tanggal,Maskapai,No. Penerbangan,Rute,Penumpang,Jumlah Tiket,Total Bayar,Status
+1,BK002,2025-11-21,Garuda Indonesia,GA-202,Jakarta → Surabaya,Siti Nurhaliza,1,Rp 1.200.000,Lunas
+2,BK001,2025-11-20,Garuda Indonesia,GA-101,Jakarta → Bali,Ahmad Subagyo,2,Rp 3.000.000,Lunas
+,,,,,,TOTAL:,,Rp 4.200.000,
